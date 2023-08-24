@@ -1,3 +1,2 @@
 # lab_03_assignment
-
-## A new line added inside VScode...
+## this is my first github program
